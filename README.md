@@ -25,7 +25,7 @@
 <br>
 
 ## 🛍️    Projeto Final
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ZEROCOMMERCE**    [*(Enunciado)*](./public/assets/readme/enunciadoProjetoFinal.pdf)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ZEROCOMMERCE**    [*(Enunciado)*](https://github.com/marcosbarker/zeroCommerce/blob/main/public/assets/readme/enunciadoProjetoFinal.pdf)<br>
  * [**Site**](https://zerocommerce-web.herokuapp.com/)<br>
  * [**Repositório**](https://github.com/marcosbarker/zeroCommerce)<br>
 <br>
