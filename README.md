@@ -20,8 +20,14 @@
 </br></br>
 
 ## <img  height="40px" align="center" src="assets/coin.gif"> Atividades
-* [Revisão JS](introExemplosRevisaoJs/)
-
+- [Revisão JS](introExemplosRevisaoJs/)<br>
+- [Material de Aula](materialDeAula/)<br>
+<br>
+## 🛍️    Projeto Final
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**ZEROCOMMERCE**    [*(Enunciado)*](./public/assets/readme/enunciadoProjetoFinal.pdf)<br>
+ * [**Site**](https://zerocommerce-web.herokuapp.com/)<br>
+ * [**Repositório**](https://github.com/marcosbarker/zeroCommerce)<br>
+<br>
 ## <img  height="45px" align="center" src="assets/stockrocketgif.gif"> Tecnologia Utilizada
 - [**Node**](https://nodejs.org/en/)    [(*Documentação*)](https://nodejs.org/en/docs/)
 - [**npm**](https://www.npmjs.com/)    [(*Documentação*)](https://docs.npmjs.com/)
